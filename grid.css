@@ -80,7 +80,7 @@ body {
 
 .one {
   --clrOne: #61348b;
-  background-color: vr(--clrOne);
+  background-color: var(--clrOne);
   color: var(--txtLight);
 
   & .profile {
