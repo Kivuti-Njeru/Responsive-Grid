@@ -31,8 +31,6 @@ body {
 .box {
   border-radius: 0.25rem;
   padding: 1rem;
-  /* display: grid;
-   gap: .8rem; */
 
   & h3 {
     font-size: clamp(1.25rem, 3vw, 1.6rem);
